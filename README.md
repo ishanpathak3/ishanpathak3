@@ -50,10 +50,9 @@ I'm a full-stack developer with a passion for building **secure, scalable, and a
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
-![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishanpathak3&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpathak3&layout=compact&theme=tokyonight&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ishanpathak3&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
