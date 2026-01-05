@@ -52,8 +52,8 @@ I'm a full-stack developer with a passion for building **secure, scalable, and a
 ---
 
 ### 📊 GitHub Stats
-![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishanpathak3&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpathak3&layout=compact&theme=tokyonight)
+![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishanpathak3&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpathak3&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
