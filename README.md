@@ -1,16 +1,17 @@
 ## Hi there, I'm Ishan 👋
-I'm a full-stack developer with a passion for building **secure, scalable, and accessible applications**. From web platforms and mobile games to cloud-native microservices and AI-powered tools, I love exploring diverse technologies and solving real-world problems through code.
+I'm a full-stack software engineer passionate about building **intuitive, scalable, and user-centered applications**. I bridge the gap between complex backend systems and clean, accessible interfaces, solving real-world problems through code.  
 
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on: Cloud-native applications and exploring AI integration
-- 🌱 I'm currently learning: Cloud services (AWS/Azure/GCP), Kubernetes, and AI/ML integration patterns
-- 👯 I'm looking to collaborate on: Full-stack web apps, mobile projects, cloud-native solutions, or open source tools
-- 💬 Ask me about: Django, Spring Boot, Docker, React, Flutter, microservices, or building accessible web platforms
-- 📫 How to reach me: [pathakishan333@gmail.com](mailto:pathakishan333@gmail.com)
-- ⚡ Fun fact: I write smarter code at 2AM than I do at 2PM 😄
-  
+- 🔭 I'm currently working on: Full-stack web apps, cloud-native services, and AI integration  
+- 🌱 I'm currently learning: Advanced cloud architectures (AWS/Azure/GCP), Kubernetes, and AI/ML patterns  
+- 👯 I'm looking to collaborate on: Full-stack projects, mobile apps, and open-source tools  
+- 💬 Ask me about: Django, Spring Boot, React, Flutter, Docker, microservices, or building accessible web platforms  
+- 📫 How to reach me: [pathakishan333@gmail.com](mailto:pathakishan333@gmail.com)  
+- 🌐 My portfolio / website: [theishanpathak.com](https://theishanpathak.com)  
+- ⚡ Fun fact: I train my brain with code and my body on the soccer field and at the gym 🏋️‍♂️⚽  
+
 ---
 
 ### 🛠️ Tech Stack
@@ -50,15 +51,10 @@ I'm a full-stack developer with a passion for building **secure, scalable, and a
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ---
-### 📊 GitHub Activity
-
-🔭 Explore my projects: [View Repositories](https://github.com/theishanpathak?tab=repositories)
-
-💻 Main Languages: Python, Java, JavaScript, Dart
-
-⭐ Check out my pinned repos below!
----
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-pathak333/)
+[![Website](https://img.shields.io/badge/Website-1F1F1F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theishanpathak.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-pathak333/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theishanpathak)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishan_333/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakishan333@gmail.com)
