@@ -52,7 +52,7 @@ I'm a full-stack developer with a passion for building **secure, scalable, and a
 ---
 ### 📊 GitHub Activity
 
-🔭 Explore my projects: [View Repositories](https://github.com/ishanpathak3?tab=repositories)
+🔭 Explore my projects: [View Repositories](https://github.com/theishanpathak?tab=repositories)
 
 💻 Main Languages: Python, Java, JavaScript, Dart
 
