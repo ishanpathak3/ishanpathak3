@@ -1,4 +1,4 @@
-## Hi there, I'm Ishan 👋
+## Hi there, I'm Ishan Pathak 👋
 I'm a full-stack software engineer passionate about building **intuitive, scalable, and user-centered applications**. I bridge the gap between complex backend systems and clean, accessible interfaces, solving real-world problems through code.  
 
 ---
