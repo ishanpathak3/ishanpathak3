@@ -1,17 +1,30 @@
 ## Hi there, I'm Ishan Pathak 👋
-I'm a full-stack software engineer passionate about building **intuitive, scalable, and user-centered applications**. I bridge the gap between complex backend systems and clean, accessible interfaces, solving real-world problems through code.  
+### Full-Stack Software Engineer | National Django Champion | HackHarvard Winner
+
+I’m a Computer Science Honors Senior (Class of 2026) at the University of Mississippi. I specialize in building **high-performance, AI-native systems** that bridge the gap between low-latency backend architecture and sleek, accessible interfaces.
 
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on: Full-stack web apps, cloud-native services, and AI integration  
-- 🌱 I'm currently learning: Advanced cloud architectures (AWS/Azure/GCP), Kubernetes, and AI/ML patterns  
-- 👯 I'm looking to collaborate on: Full-stack projects, mobile apps, and open-source tools  
-- 💬 Ask me about: Django, Spring Boot, React, Flutter, Docker, microservices, or building accessible web platforms  
+- 🔭 I'm currently working on: Advanced RAG (Retrieval-Augmented Generation) pipelines and Vector Embedding strategies to build context-aware AI   applications. 
+- 🌱 I'm currently learning: System Design and Distributed Systems to architect highly scalable, reliable, and fault-tolerant infrastructures.  
+- 👯 I'm looking to collaborate on: Open-source AI tooling, performance-critical backend systems, or anything that solves a real-world problem with clean code.
+- 💬 Ask me about: Spring WebFlux for reactive streaming, National-Award winning Django development, or building accessible (WCAG) full-stack platforms.  
 - 📫 How to reach me: [pathakishan333@gmail.com](mailto:pathakishan333@gmail.com)  
 - 🌐 My portfolio / website: [theishanpathak.com](https://theishanpathak.com)  
 - ⚡ Fun fact: I train my brain with code and my body on the soccer field and at the gym 🏋️‍♂️⚽  
 
+---
+
+### 🚀 Featured Projects
+
+* **[FinAssist AI](https://github.com/theishanpathak/ai-finance-assistant)** – Reactive AI Financial Tutor. 
+    * *Tech: Spring WebFlux, SSE, OpenAI API, Docker.* * Achieved asynchronous, non-blocking delivery of real-time AI responses using **Server-Sent Events**.
+* **[GPT-4o Mini Cost Monitor](https://github.com/theishanpathak/prompt-tester)** – Precision Token Analytics. 
+    * *Tech: Java 17, Spring Boot, REST APIs.* * Built a tracking engine with precision to **$0.000001** for AI cost optimization.
+* **[VotoSecure](https://github.com/theishanpathak/votosecure)** – Secure Voting Platform. 
+    * *Tech: Django, PostgreSQL, JWT, WCAG 2.1 AA.* * Supports 100+ concurrent elections with stateless session management and full accessibility.
+ 
 ---
 
 ### 🛠️ Tech Stack
@@ -54,6 +67,5 @@ I'm a full-stack software engineer passionate about building **intuitive, scalab
 ### 🌐 Connect With Me
 [![Website](https://img.shields.io/badge/Website-1F1F1F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theishanpathak.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-pathak333/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theishanpathak)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishan_333/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakishan333@gmail.com)
