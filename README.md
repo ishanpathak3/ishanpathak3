@@ -1,15 +1,15 @@
 ## Hi there, I'm Ishan Pathak 👋
 ### Full-Stack Software Engineer | National Django Champion | HackHarvard Winner
 
-I’m a Computer Science Honors Senior (Class of 2026) at the University of Mississippi. I specialize in building **high-performance, AI-native systems** that bridge the gap between low-latency backend architecture and sleek, accessible interfaces.
+I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Class of 2026) specializing in building **high-performance, AI-native systems** that bridge the gap between low-latency backend architecture and sleek, accessible interfaces.
 
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on: Advanced RAG (Retrieval-Augmented Generation) pipelines and Vector Embedding strategies to build context-aware AI   applications. 
-- 🌱 I'm currently learning: System Design and Distributed Systems to architect highly scalable, reliable, and fault-tolerant infrastructures.  
+- 🔭 I'm currently working on: **Sift**, an AI-powered deal room that helps founders and investors cut through diligence noise using GPT-4o mini.
+- 🌱 I'm currently learning: LangGraph and multi-agent orchestration patterns for building more capable AI systems.
 - 👯 I'm looking to collaborate on: Open-source AI tooling, performance-critical backend systems, or anything that solves a real-world problem with clean code.
-- 💬 Ask me about: Spring WebFlux for reactive streaming, National-Award winning Django development, or building accessible (WCAG) full-stack platforms.  
+- 💬 Ask me about: Spring WebFlux for reactive streaming, National-Award winning Django development, or shipping a CLI tool to PyPI.
 - 📫 How to reach me: [pathakishan333@gmail.com](mailto:pathakishan333@gmail.com)  
 - 🌐 My portfolio / website: [theishanpathak.com](https://theishanpathak.com)  
 - ⚡ Fun fact: I train my brain with code and my body on the soccer field and at the gym 🏋️‍♂️⚽  
@@ -18,13 +18,13 @@ I’m a Computer Science Honors Senior (Class of 2026) at the University of Miss
 
 ### 🚀 Featured Projects
 
-* **[FinAssist AI](https://github.com/theishanpathak/ai-finance-assistant)** – Reactive AI Financial Tutor. 
-    * *Tech: Spring WebFlux, SSE, OpenAI API, Docker.* * Achieved asynchronous, non-blocking delivery of real-time AI responses using **Server-Sent Events**.
-* **[GPT-4o Mini Cost Monitor](https://github.com/theishanpathak/prompt-tester)** – Precision Token Analytics. 
-    * *Tech: Java 17, Spring Boot, REST APIs.* * Built a tracking engine with precision to **$0.000001** for AI cost optimization.
-* **[VotoSecure](https://github.com/theishanpathak/votosecure)** – Secure Voting Platform. 
-    * *Tech: Django, PostgreSQL, JWT, WCAG 2.1 AA.* * Supports 100+ concurrent elections with stateless session management and full accessibility.
- 
+* **[FinAssist AI](https://github.com/theishanpathak/ai-finance-assistant)** – Reactive AI Financial Tutor.
+    * *Tech: Spring WebFlux, SSE, OpenAI API, Docker.* Achieved asynchronous, non-blocking delivery of real-time AI responses using **Server-Sent Events**.
+* **[CommitMate](https://github.com/theishanpathak/commitmate)** – AI Commit Message Generator, published on PyPI.
+    * *Tech: Python, Ollama, GitHub Actions.* Generates Conventional Commits messages from staged diffs using a **local LLM**, no API keys or cloud calls required.
+* **[VotoSecure](https://github.com/theishanpathak/votosecure)** – Secure Voting Platform.
+    * *Tech: Django, PostgreSQL, JWT, WCAG 2.1 AA.* Supports 100+ concurrent elections with stateless session management and full accessibility.
+
 ---
 
 ### 🛠️ Tech Stack
@@ -34,6 +34,7 @@ I’m a Computer Science Honors Senior (Class of 2026) at the University of Miss
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Frontend**  
@@ -42,14 +43,20 @@ I’m a Computer Science Honors Senior (Class of 2026) at the University of Miss
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=for-the-badge&logo=htmx&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Mobile Development**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+**AI / ML**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
