@@ -6,10 +6,10 @@ I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Cla
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on: **Sift**, an AI-powered deal room that helps founders and investors cut through diligence noise using GPT-4o mini.
-- 🌱 I'm currently learning: LangGraph and multi-agent orchestration patterns for building more capable AI systems.
+- 🔭 I'm currently working on: Earvane, an autonomous LangGraph agent that scouts emerging music trends from public API signals and publishes grounded, cited trend briefs.
+- 🌱 I'm currently learning: multi-agent orchestration, RAG evaluation (RAGAS-style faithfulness scoring), and LLM observability with Langfuse.
 - 👯 I'm looking to collaborate on: Open-source AI tooling, performance-critical backend systems, or anything that solves a real-world problem with clean code.
-- 💬 Ask me about: Spring WebFlux for reactive streaming, National-Award winning Django development, or shipping a CLI tool to PyPI.
+- 💬 Ask me about: LangGraph agent design, Spring WebFlux for reactive streaming, National-Award winning Django development, or shipping a CLI tool to PyPI.
 - 📫 How to reach me: [pathakishan333@gmail.com](mailto:pathakishan333@gmail.com)  
 - 🌐 My portfolio / website: [theishanpathak.com](https://theishanpathak.com)  
 - ⚡ Fun fact: I train my brain with code and my body on the soccer field and at the gym 🏋️‍♂️⚽  
@@ -18,6 +18,10 @@ I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Cla
 
 ### 🚀 Featured Projects
 
+* **[Earvane](https://github.com/theishanpathak/earvane-agent)** – Autonomous Music Trend Scouting Agent.
+    * *Tech: Python, LangGraph, Postgres + pgvector, OpenAI embeddings, Langfuse, Next.js.* Multi-node agent pipeline (signal collection, relevance scoring, RAG retrieval, synthesis)       that ingests real-time signals from Spotify, YouTube, Deezer, and Genius, then publishes cited trend briefs on a 6-hour cron.
+* **[Sift](https://github.com/theishanpathak/sift)** – AI-Powered Startup Due Diligence Tool.
+    * *Tech: FastAPI, GPT-4o mini, Tavily, React.* Live deal room that helps founders and investors cut through diligence noise with grounded, AI-synthesized research.
 * **[FinAssist AI](https://github.com/theishanpathak/ai-finance-assistant)** – Reactive AI Financial Tutor.
     * *Tech: Spring WebFlux, SSE, OpenAI API, Docker.* Achieved asynchronous, non-blocking delivery of real-time AI responses using **Server-Sent Events**.
 * **[CommitMate](https://github.com/theishanpathak/commitmate)** – AI Commit Message Generator, published on PyPI.
@@ -40,6 +44,7 @@ I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Cla
 **Frontend**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=for-the-badge&logo=htmx&logoColor=white)
@@ -51,6 +56,7 @@ I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Cla
 
 **AI / ML**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 **DevOps & Cloud**  
