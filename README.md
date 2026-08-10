@@ -20,12 +20,19 @@ I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Cla
 
 * **[Earvane](https://github.com/theishanpathak/earvane-agent)** – Autonomous Music Trend Scouting Agent.
     * *Tech: Python, LangGraph, Postgres + pgvector, OpenAI embeddings, Langfuse, Next.js.* Multi-node agent pipeline (signal collection, relevance scoring, RAG retrieval, synthesis)       that ingests real-time signals from Spotify, YouTube, Deezer, and Genius, then publishes cited trend briefs on a 6-hour cron.
+    * 
+* **[Copium](https://github.com/theishanpathak/copium)** – Automated Job Rejection Roaster.
+    * *Tech: Python, LangGraph, Gmail API, Google Cloud Pub/Sub, Tavily, Supabase, Next.js, Web Push.* Gmail push notifications trigger a four-node pipeline that classifies inbound         recruiting mail, extracts the company and role, researches the company, and writes a card that reaches my phone in about thirty seconds. Non-rejections exit after one LLM call;         idempotency is enforced at the database rather than in application logic.
+    * 
 * **[Sift](https://github.com/theishanpathak/sift)** – AI-Powered Startup Due Diligence Tool.
     * *Tech: FastAPI, GPT-4o mini, Tavily, React.* Live deal room that helps founders and investors cut through diligence noise with grounded, AI-synthesized research.
+    * 
 * **[FinAssist AI](https://github.com/theishanpathak/ai-finance-assistant)** – Reactive AI Financial Tutor.
     * *Tech: Spring WebFlux, SSE, OpenAI API, Docker.* Achieved asynchronous, non-blocking delivery of real-time AI responses using **Server-Sent Events**.
+    * 
 * **[CommitMate](https://github.com/theishanpathak/commitmate)** – AI Commit Message Generator, published on PyPI.
     * *Tech: Python, Ollama, GitHub Actions.* Generates Conventional Commits messages from staged diffs using a **local LLM**, no API keys or cloud calls required.
+    * 
 * **[VotoSecure](https://github.com/theishanpathak/votosecure)** – Secure Voting Platform.
     * *Tech: Django, PostgreSQL, JWT, WCAG 2.1 AA.* Supports 100+ concurrent elections with stateless session management and full accessibility.
 
