@@ -1,5 +1,5 @@
 ## Hi there, I'm Ishan Pathak 👋
-### Full-Stack Software Engineer | National Django Champion | HackHarvard Winner
+### AI Systems Engineer | HackHarvard Winner | 3rd Place, ERISA Recovery Django Challenge
 
 I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Class of 2026) specializing in building **high-performance, AI-native systems** that bridge the gap between low-latency backend architecture and sleek, accessible interfaces.
 
@@ -9,7 +9,7 @@ I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Cla
 - 🔭 I'm currently working on: Earvane, an autonomous LangGraph agent that scouts emerging music trends from public API signals and publishes grounded, cited trend briefs.
 - 🌱 I'm currently learning: multi-agent orchestration, RAG evaluation (RAGAS-style faithfulness scoring), and LLM observability with Langfuse.
 - 👯 I'm looking to collaborate on: Open-source AI tooling, performance-critical backend systems, or anything that solves a real-world problem with clean code.
-- 💬 Ask me about: LangGraph agent design, Spring WebFlux for reactive streaming, National-Award winning Django development, or shipping a CLI tool to PyPI.
+- 💬 Ask me about: LangGraph agent design, exactly-once processing over an at-least-once event source, Spring WebFlux for reactive streaming, or shipping a CLI to PyPI.
 - 📫 How to reach me: [pathakishan333@gmail.com](mailto:pathakishan333@gmail.com)  
 - 🌐 My portfolio / website: [theishanpathak.com](https://theishanpathak.com)  
 - ⚡ Fun fact: I train my brain with code and my body on the soccer field and at the gym 🏋️‍♂️⚽  
@@ -20,19 +20,19 @@ I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Cla
 
 * **[Earvane](https://github.com/theishanpathak/earvane-agent)** – Autonomous Music Trend Scouting Agent.
     * *Tech: Python, LangGraph, Postgres + pgvector, OpenAI embeddings, Langfuse, Next.js.* Multi-node agent pipeline (signal collection, relevance scoring, RAG retrieval, synthesis)       that ingests real-time signals from Spotify, YouTube, Deezer, and Genius, then publishes cited trend briefs on a 6-hour cron.
-    * 
+      
 * **[Copium](https://github.com/theishanpathak/copium)** – Automated Job Rejection Roaster.
     * *Tech: Python, LangGraph, Gmail API, Google Cloud Pub/Sub, Tavily, Supabase, Next.js, Web Push.* Gmail push notifications trigger a four-node pipeline that classifies inbound         recruiting mail, extracts the company and role, researches the company, and writes a card that reaches my phone in about thirty seconds. Non-rejections exit after one LLM call;         idempotency is enforced at the database rather than in application logic.
-    * 
+      
 * **[Sift](https://github.com/theishanpathak/sift)** – AI-Powered Startup Due Diligence Tool.
     * *Tech: FastAPI, GPT-4o mini, Tavily, React.* Live deal room that helps founders and investors cut through diligence noise with grounded, AI-synthesized research.
-    * 
+      
 * **[FinAssist AI](https://github.com/theishanpathak/ai-finance-assistant)** – Reactive AI Financial Tutor.
     * *Tech: Spring WebFlux, SSE, OpenAI API, Docker.* Achieved asynchronous, non-blocking delivery of real-time AI responses using **Server-Sent Events**.
-    * 
+      
 * **[CommitMate](https://github.com/theishanpathak/commitmate)** – AI Commit Message Generator, published on PyPI.
     * *Tech: Python, Ollama, GitHub Actions.* Generates Conventional Commits messages from staged diffs using a **local LLM**, no API keys or cloud calls required.
-    * 
+      
 * **[VotoSecure](https://github.com/theishanpathak/votosecure)** – Secure Voting Platform.
     * *Tech: Django, PostgreSQL, JWT, WCAG 2.1 AA.* Supports 100+ concurrent elections with stateless session management and full accessibility.
 
@@ -46,7 +46,7 @@ I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Cla
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 **Frontend**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,10 +57,6 @@ I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Cla
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=for-the-badge&logo=htmx&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Mobile Development**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **AI / ML**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -80,7 +76,6 @@ I'm a Computer Science graduate (Magna Cum Laude, University of Mississippi, Cla
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & Others**  
